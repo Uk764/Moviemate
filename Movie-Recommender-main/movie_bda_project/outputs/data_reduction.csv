@@ -1,0 +1,4 @@
+metric,before,after,kept_pct
+Ratings,100836,80828,80.2
+Users,610,592,97
+Movies,9724,2269,23.3

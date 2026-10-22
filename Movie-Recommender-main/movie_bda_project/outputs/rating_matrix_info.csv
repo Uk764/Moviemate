@@ -1,0 +1,2 @@
+users,movies,ratings,sparsity_pct,dense_size_MB,sparse_size_MB
+539,880,56979,87.99,3.6,0.7
